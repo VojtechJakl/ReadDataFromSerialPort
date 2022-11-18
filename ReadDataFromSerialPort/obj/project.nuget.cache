@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfGCjxyGF9TmH2e8PUFOb6k58CRqcqRZ2ihO8pNC/U3V+qlUyVNhmO76lfGpn4IVxV8Vq2dMJ9pyqLWAViI00w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vojtěch Jakl\\source\\repos\\ReadDataFromSerialPort\\ReadDataFromSerialPort\\ReadDataFromSerialPort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Vojtěch Jakl\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
